@@ -6,7 +6,7 @@ A Country Guide site us help to found search any country Flag, Capital, Continen
     <br>
     <b>Country Guide</b>
     <br>
-    <a href="https://code.visualstudio.com/" target="_blank">
+    <a href="https://sajalsantra.github.io/Country-Guide/" target="_blank">
         <img src="https://img.shields.io/badge/Download-View Site%20-Orange?style=flat-square">
     </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank">
