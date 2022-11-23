@@ -7,10 +7,10 @@ A Country Guide site us help to found search any country Flag, Capital, Continen
     <b>Country Guide</b>
     <br>
     <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Download-View%20-Orange?style=flat-square">
+        <img src="https://img.shields.io/badge/Download-View Site%20-Orange?style=flat-square">
     </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <img src="https://img.shields.io/badge/Download-zip%20-Orange?style=flat-square">
+        <img src="https://img.shields.io/badge/Download-Source Code%20-Orange?style=flat-square">
     </a>
    
 </h1>
