@@ -2,7 +2,7 @@
 A Country Guide site us help to found search any country Flag, Capital, Continent, Population, Currency &amp; Common Languages. 
 
 <h1 align="center">
-    <img src="img/interface.jpg" width="120">
+    <img src="img/interface.png" width="120">
     <br>
     <b>Guess The Number</b>
     <br>
