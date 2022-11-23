@@ -15,7 +15,7 @@
 </h1>
 
 <h4 align = "center">
-A Laboratory Exercise in Computer Programming 2 that implements the Try and Catch Functionality as well as File Handling. I make the activity more interesting by adding continue the game repeatedly.
+A Laboratory Exercise in Computer Programming 2 that implements the Try and Catch Functionality as well as use api. I make the activity more interesting by adding Continent, Population, Currency, Common Languages and more.
 </h4>
 
 ## **Run the Program** 📜
