@@ -1,5 +1,4 @@
-# Country-Guide 📜
-A Country Guide site us help to found search any country Flag, Capital, Continent, Population, Currency &amp; Common Languages. 
+ 
 
 <h1 align="center">
     <img src="img/interface.png" width="120">
@@ -21,7 +20,7 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
 
 ## **Run the Program** 📜
  To run the program, the device must have:
- - IDE (Netbeans, Eclipse, Intellj, Vs Code)
+ - IDE (Vs Code)
 
 ## **Instruction of the Game** 📚
 1. Click the Play button
@@ -32,17 +31,6 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
 6. Upon clicking the back to menu, the game will end
 7. The score then will store in the high score text file in the scores folder
 8. When you score higher compare inside the text file, it will overwrite
-
-## **Download Source Code** 📥
-<div >
-    <a  target="_blank" href="https://ftlb.herokuapp.com/wpVvbWnCn2k=">
-        <img src="https://img.shields.io/badge/Source%20Code-.java%20-Orange?style=flat-square" size="20px">
-    </a>
-    <a  target="_blank" href="https://ftlb.herokuapp.com/wpVvbWrCl2M=">
-        <img src="https://img.shields.io/badge/Source%20Code-.class%20-Orange?style=flat-square" size="20px">
-    </a>
-</div>
-<br>
 
 ## **Contribution** 🔥
 If you wish to help improve this project, fork this repo and submit your own pull request. If you discover a problem with this project, please report it to the issue page. Thank you very much   😊.
