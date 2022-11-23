@@ -23,7 +23,8 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
  - IDE (Vs Code)
 
 ## **Instruction of the Game** 📚
-1. Click the Play button
+1. In search box write Country name.
+1. Click the search button
 2. Guess a Number by typing in the text field and click enter
 3. When you guess incorrectly, the status will change that help you figure out the number
 4. Upon guessing the correct number, the question mark is replace with a correct number
