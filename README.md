@@ -24,14 +24,8 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
 
 ## **Instruction of the Game** 📚
 1. In search box write Country name.
-1. Click the search button
-2. Guess a Number by typing in the text field and click enter
-3. When you guess incorrectly, the status will change that help you figure out the number
-4. Upon guessing the correct number, the question mark is replace with a correct number
-5. You can continue the game repeatedly
-6. Upon clicking the back to menu, the game will end
-7. The score then will store in the high score text file in the scores folder
-8. When you score higher compare inside the text file, it will overwrite
+2. Click the search button
+3.  it Saw country Flag, Capital, Continent, Population, Currency & Common Languages.
 
 ## **Contribution** 🔥
 If you wish to help improve this project, fork this repo and submit your own pull request. If you discover a problem with this project, please report it to the issue page. Thank you very much   😊.
